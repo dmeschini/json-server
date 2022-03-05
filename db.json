@@ -1,0 +1,22 @@
+{
+  "posts": [    
+    {
+      "nombre": "tornillo 1 pulgada",
+      "codigo": "5678",
+      "stock": "10",
+      "precio": "200",
+      "proveedor": "enfer",
+      "id": 5
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
