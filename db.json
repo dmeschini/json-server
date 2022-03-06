@@ -5,7 +5,8 @@
       "codigo": "5678",
       "stock": "10",
       "precio": "200",
-      "proveedor": "enfer"
+      "proveedor": "enfer",
+      "id": 5
     }
   ],
   "comments": [
