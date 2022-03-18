@@ -1,0 +1,23 @@
+{
+  "posts": [
+    {
+      "nombre": "placa de video",
+      "codigo": "9101112",
+      "stock": "45",
+      "precio": "1500",
+      "proveedor": "infoandina",
+      "tipo": "producto",
+      "id": 1
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
