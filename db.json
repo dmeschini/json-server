@@ -1,11 +1,12 @@
 {
   "posts": [    
     {
-      "nombre": "tornillo 1 pulgada",
+      "nombre": "placa de video",
       "codigo": "5678",
       "stock": "10",
       "precio": "200",
-      "proveedor": "enfer",
+      "proveedor": "infoandina",
+      "tipo":"producto"
       "id": 5
     }
   ],
